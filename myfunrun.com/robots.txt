@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /dash
+Disallow: /admin
+Disallow: /cart
+Disallow: /payment
+Disallow: /ajax
+
+Sitemap: https://www.myevent.com/sitemap.xml
+Sitemap: https://www.myfunrun.com/sitemap.xml
